@@ -1,6 +1,8 @@
 <section class='first-section'>
 	<div class='fs-content'>
-		<h1>What is check way?</h1>
+		<h1 
+    style="text-align: -webkit-center;"
+>What is check way?</h1>
 		<h2>CheckWay is simply dummy text of the printing and typesetting industry. Lorem Ipsum has<br> been the industry's standard dummy text ever since the 1500s, when an unknown printer<br> took a galley of type and scrambled it to make a type specimen book. It has survived<br> not only five centuries, but also the leap into electronic typesetting, remaining<br>p publishing software like Aldus PageMaker including versions of Lorem Ipsum</h2>
 	</div>
 </section>

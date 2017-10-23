@@ -10,6 +10,10 @@
 	<button type="button"  class="btn btn-info btn-lg uphe" data-toggle="modal" data-target="#myModal" data-attrss="header"   name="header">
 		update text
 	</button>
+	<button type="button">
+		update text111
+	</button>
+	
 
   <div class="modal fade" id="myModal" role="dialog">
     <div class="modal-dialog">
